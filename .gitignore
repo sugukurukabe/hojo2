@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Heavy files and drafts to make push faster
+*ドラフト/
+出張書類セット/
+出張写真（抽出済）/
+桐原_正規証拠データ/
+*.HEIC
+*.heic
+
